@@ -1,0 +1,32 @@
+_repo: The-War-Workers_37181
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Delafield, E. M.
+    aliases:
+    - Dashwood, Elizabeth M.
+    - De La Pasture, Edmée Elizabeth Monica
+    birthdate: 1890
+    deathdate: 1943
+    gutenberg_agent_id: '37324'
+    url: http://www.gutenberg.org/2009/agents/37324
+    wikipedia: http://en.wikipedia.org/wiki/E._M._Delafield
+description: ''
+gutenberg_issued: '2011-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37181'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Satire'
+- !lcsh 'World War, 1914-1918 -- War work -- England -- Fiction'
+title: The War-Workers
+url: http://www.gutenberg.org/ebooks/37181
